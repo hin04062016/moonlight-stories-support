@@ -1,2 +1,10 @@
-# moonlight-stories-support
-小小故事屋 — 官方支援網站與隱私政策 | Support and privacy policy
+# 小小故事屋 — 支援網站
+
+公開支援與隱私政策，提供繁體中文、簡體中文及英文。
+
+經營者：Yu Hin Lai
+公開客服：hinsstudio2023@gmail.com
+
+此儲存庫只包含靜態公開網站，不包含原生 App、配音素材、憑證或私人審查聯絡資料。
+
+GitHub Pages：從 main 分支根目錄發布。所有本機連結皆採相對路徑。
